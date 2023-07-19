@@ -11,11 +11,11 @@ This Specialization introduce learners to data science through the Python progra
 
 - __Course 2__ - Applied Plotting, Charting & Data Representation in Python :heavy_check_mark:
   
-- __Course 3__ - Applied Machine Learning in Python
-
-   _In progress_
+- __Course 3__ - Applied Machine Learning in Python :heavy_check_mark:
   
 - __Course 4__ - Applied Text Mining in Python
+
+  _In progress_
   
 - __Course 5__ - Applied Social Network Analysis in Python
 
