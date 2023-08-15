@@ -1,0 +1,33 @@
+Linear Regression: Least Squares
+
+A Linear Model is a sum of weighted variables that predicts a target output value given an input data instance.
+
+Linear Regression is an example of a linear model. Generally in a linear regression model there may be multiple input variables or features denote with X0, X1, etc, Each feature Xi has a corresponding weight Wi. The predicted output, which we denote as y, is a weighted sum of features plus a constant term b.
+
+        Predicted Output:
+            
+            y = W0X0 + W1X1 + ... + WnXn + b
+            
+        Parameters to estimate:
+        
+            w = feature weights/model coefficients
+            
+            b = constant bias term/intercept
+            
+Linear Regression Model with one Variable (Feature).
+
+        Input instance: X = X0
+    
+        Predicted Output: y = W0X0 + b
+    
+            Where W0 is the slope of the line and b is the y-intercept
+        
+Training and Prediction Phases.
+
+The training phase using the TRAINING DATA is what we'll use to estimate W0 and b. One widely method for estimating W and b for a linear regression problem, it's called least-squares linear regression, also known as ordinary least-squares. Least-squares linear regression finds the line through this cloud of points that minimizes what is called the mean squared error of the model. The mean squared error of the model is essentially the sum of the squared differences between the predicted target value and the actual target value for all the points in the training set.
+        
+            
+            
+    
+
+
