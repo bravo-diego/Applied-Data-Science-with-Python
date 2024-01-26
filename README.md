@@ -9,15 +9,13 @@ __Specialization - 5 course Series__
 
 This Specialization introduce learners to data science through the Python programming language. This skills-based specialization is intended for learners who have a basic python or programming background, and want to apply statistical, machine learning, information visualization, text analysis, and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkX to gain insight into their data.
 
-- __Course 1__- Introduction to Data Science with Python 
+- __Course 1__ - Introduction to Data Science with Python 
 
 - __Course 2__ - Applied Plotting, Charting & Data Representation in Python
   
 - __Course 3__ - Applied Machine Learning in Python
   
 - __Course 4__ - Applied Text Mining in Python
-
-  _In progress_
   
 - __Course 5__ - Applied Social Network Analysis in Python
 
